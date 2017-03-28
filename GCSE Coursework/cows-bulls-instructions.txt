@@ -1,6 +1,0 @@
-Cows and Bulls is a guessing game where the player tries to guess a randomly generated number. This number has exactly four digits between 0 and 9 with no duplicates.
-
-You will be asked to enter a four-digit number. If a digit is in the generated number and is in the correct position, the digit is a "bull". If it is in a different position, it is a "cow". The numbers of cows and bulls will be shown to you. You win once you have correctly guessed the number.
-
-You can start a new game by pressing the "New Game" button.
-And the "How to Play" option is how you got here!
